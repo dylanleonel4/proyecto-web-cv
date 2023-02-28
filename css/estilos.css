@@ -1,0 +1,37 @@
+body{
+	background-image: url("imagen_prueba.jpg");
+
+}
+h1{
+	font-family: 'Lora', serif
+}
+
+#contenido {
+
+font-family: 'Tilt Warp', cursive;
+
+}
+button{
+	
+	font-weight: 600;
+	font-size: 20px;
+	color:#222222;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:40px;
+	padding-right: 40px;
+	background-color:#FFD27D;
+	border-color: #C82A54;
+	border-width: 3px;
+	border-style:solid;
+	border-radius:35px;
+
+}
+
+#imagen_cv{
+	border-color:#ff0648;
+	padding: 6px;
+}
+
+	
+
